@@ -18,6 +18,6 @@ have regular colloquium meetings in this domain.
 
 - [Damir Cavar](http://damir.cavar.me/)
 - Lwin Moe
-- Ken Steimel
+- [Ken Steimel](http://ksteimel.duckdns.org)
 
 
