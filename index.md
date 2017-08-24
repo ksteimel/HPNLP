@@ -20,4 +20,10 @@ have regular colloquium meetings in this domain.
 - Lwin Moe
 - [Ken Steimel](http://ksteimel.duckdns.org)
 
-
+## Resources
+### GPU Processing
+### Parallel Processing
+### Distributed Processing
+- [Dask Cross Validated Grid Search](http://dask-searchcv.readthedocs.io/en/latest/)
+- [Dask Distributed Schedulers](https://distributed.readthedocs.io/en/latest/setup.html)
+- [Spark Machine Learning](https://www.datacamp.com/community/tutorials/apache-spark-tutorial-machine-learning#model)
