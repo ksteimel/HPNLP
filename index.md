@@ -21,6 +21,8 @@ have regular colloquium meetings in this domain.
 - [Ken Steimel](http://ksteimel.duckdns.org)
 
 ## Resources
+### Profiling Python
+- python -m cProfile (script and arguments)
 ### GPU Processing
 ### Parallel Processing
 - [Joblib](http://pythonhosted.org/joblib/)
