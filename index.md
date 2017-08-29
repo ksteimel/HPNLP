@@ -20,9 +20,14 @@ have regular colloquium meetings in this domain.
 - Lwin Moe
 - [Ken Steimel](http://ksteimel.duckdns.org)
 
+## Example Projects
+
 ## Resources
-### Profiling Python
+### Sequential Python
+#### Profiling Python
 - python -m cProfile (script and arguments)
+#### Feature Extraction
+- [Scikit-learn](hpnlp.org/scikit-learn.md)
 ### GPU Processing
 ### Parallel Processing
 - [Joblib](http://pythonhosted.org/joblib/)
