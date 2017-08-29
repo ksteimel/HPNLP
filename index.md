@@ -27,7 +27,7 @@ have regular colloquium meetings in this domain.
 #### Profiling Python
 - python -m cProfile (script and arguments)
 #### Feature Extraction
-- [Scikit-learn](hpnlp.org/scikit-learn.md)
+- [Scikit-learn](using-scikit-learn.html)
 ### GPU Processing
 ### Parallel Processing
 - [Joblib](http://pythonhosted.org/joblib/)
