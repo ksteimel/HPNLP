@@ -17,7 +17,7 @@ have regular colloquium meetings in this domain.
 ## Current Team
 
 - [Damir Cavar](http://damir.cavar.me/)
-- Lwin Moe
+- [Lwin Moe](http://lwinmoe.org)
 - [Ken Steimel](http://ksteimel.duckdns.org)
 
 ## Example Projects
